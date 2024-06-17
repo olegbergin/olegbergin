@@ -1,11 +1,6 @@
 
 # Hello world 👋 I'm Oleg Bergin
 
-## I am a MERN Full Stack Developer
-
-- 📚 Learning everything about Frontend and Backend technologies 😅
-- 👯 Open source contributor
-- 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS** and more
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 📫 How to reach me: bergin.oleg@gmail.com Linkedin: https://www.linkedin.com/in/oleg-bergin-55a67b249/
 
